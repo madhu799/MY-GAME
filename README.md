@@ -1,1 +1,2 @@
-# MY-GAME
+# trex
+Trex in JavaScript.
